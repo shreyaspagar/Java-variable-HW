@@ -1,0 +1,23 @@
+public class HW1{
+    public static void main(String[] args) {
+        boolean isEmployee = true;
+        char grade = 'A';
+        byte rollNo = 64;
+        int money = 5000;
+        float temperature = 98.6f;
+        short bikeNo = 4567;
+        long population = 5612565655L;
+        double area = 123.45;
+        System.out.println("IsEmployee :" + isEmployee);
+        System.out.println("Grade :" + grade);
+        System.out.println("RollNo :" + rollNo);
+        System.out.println("Money :" + money);
+        System.out.println("Temperature :" + temperature);
+        System.out.println("BikeNo :" + bikeNo);
+        System.out.println("Population : " + population);
+        System.out.println("Area :" + area);
+
+
+
+    }
+}
